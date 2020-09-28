@@ -7630,7 +7630,8 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-top: 3rem !important;
+  margin-bottom: 5rem !important;
 }
 
 .ml-5,
@@ -10144,7 +10145,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: #72aa4d;
+  background: #217a0a;
   transition: opacity 0.25s ease;
   text-align: center;
 }
